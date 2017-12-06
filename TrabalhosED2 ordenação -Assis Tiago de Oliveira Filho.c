@@ -1,7 +1,5 @@
-UNICAP – Universidade Católica de Pernambuco
-Estrutura de Dados 2
-Aluno:Assis Tiago de Oliveira Filho
-Professor(a): Ana Eliza
+Assis Tiago de Oliveira Filho
+
 
 
 
